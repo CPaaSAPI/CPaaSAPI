@@ -1,6 +1,6 @@
 CPaaSAPI 
-
-In this repository you can find code examples that demonstarte how to integrate our WebRTC solution using our SDK
+ 
+This repository demonstarte how to integrate the CPaaS WebRTC solution using our SDK into a sample application.
 We are supporting the following platforms:
 - Web (Java Script)
 - Android (Kotlin)
